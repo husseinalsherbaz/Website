@@ -1,0 +1,1 @@
+This is My Assignment. i am creating a website that is responsive on both pc and mobile devices.
