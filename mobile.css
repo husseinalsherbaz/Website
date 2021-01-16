@@ -64,5 +64,10 @@
     width: 50%;
     height: 100vh;
 }
-
-
+nav:target{
+    display: block;
+}
+div.close{
+    display: block;
+    color: green;
+}
